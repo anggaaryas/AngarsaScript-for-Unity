@@ -13,6 +13,14 @@ AngarsaScript.Transform
      );
 ```
 
+## Features
+- [x] moveTo
+- [x] moveBy
+- [x] rotateTo
+- [x] rotateBy
+- [x] moveWithPhysic
+- [ ] ...
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
